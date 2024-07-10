@@ -1,6 +1,6 @@
 # StudentManagemt
 A simple student  mangement system using spring boot
-![Screenshot from 2024-07-10 19-05-55](https://github.com/ashutoshark/StudentManagemt/assets/77884842/e6c84662-6e1a-44f6-a870-2d927dff16fd)
+![This is home page](https://github.com/ashutoshark/StudentManagemt/assets/77884842/e6c84662-6e1a-44f6-a870-2d927dff16fd)
 ![Screenshot from 2024-07-10 19-06-53](https://github.com/ashutoshark/StudentManagemt/assets/77884842/c35cf957-9c34-4f50-b05b-49e9505f93ee)
 ![Screenshot from 2024-07-10 19-07-16](https://github.com/ashutoshark/StudentManagemt/assets/77884842/b53696d8-b03f-479e-b966-e74b9d7d7587)
 ![Screenshot from 2024-07-10 19-08-08](https://github.com/ashutoshark/StudentManagemt/assets/77884842/ec04c10e-e4ee-4cef-91e0-afdcf756b297)
