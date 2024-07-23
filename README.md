@@ -1,6 +1,4 @@
-Here's a description for your GitHub project:
 
----
 
 # Student Management Website
 
